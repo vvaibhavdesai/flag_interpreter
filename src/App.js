@@ -37,7 +37,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>Flag Interpret</h1>
+      <h1>Flag Interpreter</h1>
       <input onChange={emojiHandler} />
       <h2>{meaning}</h2>
       <h3>flags we know</h3>
